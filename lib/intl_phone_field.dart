@@ -1,7 +1,6 @@
 library intl_phone_field;
 
 import 'dart:async';
-import 'dart:developer';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
